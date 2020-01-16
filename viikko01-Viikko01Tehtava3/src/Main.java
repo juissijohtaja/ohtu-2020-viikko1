@@ -5,6 +5,10 @@ public class Main {
         System.out.println(o.tarkasta(47)); // true
         System.out.println(o.tarkasta(7747)); // true
         System.out.println(o.tarkasta(123)); // false
+        System.out.println(o.tarkasta(45));
+        System.out.println(o.tarkasta(75));
+        System.out.println(o.tarkasta(4));
+        System.out.println(o.tarkasta(44));
+        System.out.println(o.tarkasta(123456789));
     }
 }
-// test 3
