@@ -7,4 +7,4 @@ public class Main {
         System.out.println(o.tarkasta(123)); // false
     }
 }
-// test 2
+// test 3
