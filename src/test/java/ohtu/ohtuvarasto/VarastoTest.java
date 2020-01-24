@@ -73,7 +73,7 @@ public class VarastoTest {
         assertEquals(4, varasto.paljonkoMahtuu(), vertailuTarkkuus);
     }
 
-    // omat testit 3
+    // omat testit 4
 
     @Test
     public void lisaysTayteenMaxSaldo() {
