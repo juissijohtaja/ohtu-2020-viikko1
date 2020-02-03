@@ -6,6 +6,10 @@
  * user guide available at https://guides.gradle.org/creating-new-gradle-builds/
  */
 
+plugins {
+    id 'checkstyle'
+}
+
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
 
